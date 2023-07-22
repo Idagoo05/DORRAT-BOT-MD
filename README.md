@@ -1,8 +1,5 @@
-# ***🔥 DIEGO-BOT-MD 🔥***
+# ***🔥ᴛʜᴇ-ɪᴅᴀɢᴏ-ʙᴏᴛ﹣ᴍᴅ🔥***
 
-<p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
-</p>
 
 ### `—◉ ❤️BOTS OFICIALES`
 
